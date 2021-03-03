@@ -1,7 +1,9 @@
 .box1{
     background-color: antiquewhite;
-    width: 1024px;
+    width: 100%;
     height: 768px;
+    max-width: 1024px;
+    max-height: 768px;
     margin: 0 auto;
     background-image: url("picture1.png");
     background-size:391px 768px;
