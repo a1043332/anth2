@@ -1,0 +1,10 @@
+.box1{
+    background-color: antiquewhite;
+    width: 1024px;
+    height: 768px;
+    margin: 0 auto;
+    background-image: url("picture1.png");
+    background-size:391px 768px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
